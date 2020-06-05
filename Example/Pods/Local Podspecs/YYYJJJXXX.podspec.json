@@ -1,0 +1,22 @@
+{
+  "name": "YYYJJJXXX",
+  "version": "0.1.0",
+  "summary": "A short description of YYYJJJXXX.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1541771541@qq.com/YYYJJJXXX",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1541771541@qq.com": "1541771541@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1541771541@qq.com/YYYJJJXXX.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYYJJJXXX/Classes/**/*"
+}
